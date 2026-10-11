@@ -146,7 +146,7 @@ streamlit run app.py
 
 L'application s'ouvre normalement dans le navigateur. Si elle ne s'ouvre pas automatiquement, utilise l'adresse locale indiquée dans le terminal.
 
-## 🧪 Utilisation
+##  Utilisation
 
 1. Ouvrir l'onglet **Enregistrer**.
 2. Saisir un identifiant et importer une photo ou utiliser la caméra.
@@ -180,7 +180,7 @@ Dans cette version, ils sont conservés dans une base SQLite locale. Le stockage
 - Ne considérez pas une simple comparaison faciale comme une preuve d'identité.
 - Prévoyez des mécanismes de détection des attaques par photo ou écran avant tout usage sensible.
 
-## 🚧 Limites actuelles
+## Limites actuelles
 
 - Le système dépend de la qualité des photographies et de la détection faciale.
 - Les variations d'éclairage, d'angle et d'expression peuvent affecter les scores.
@@ -188,7 +188,7 @@ Dans cette version, ils sont conservés dans une base SQLite locale. Le stockage
 - La reconnaissance faciale seule ne garantit pas que la personne soit physiquement présente devant la caméra.
 - Les profils sont stockés localement et ne sont pas synchronisés entre plusieurs appareils.
 
-## 🔮 Perspectives d'amélioration
+##  Perspectives d'amélioration
 
 - Autoriser plusieurs photos de référence par personne.
 - Évaluer les performances avec un jeu de données de test contrôlé.
