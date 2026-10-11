@@ -1,0 +1,23 @@
+```gitignore
+# Environnement Python
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+
+# Données biométriques et base locale
+faceauth.db
+*.db
+*.sqlite
+*.sqlite3
+photo_test.jpg
+
+# Fichiers temporaires
+.streamlit/secrets.toml
+.env
+
+# Système et éditeur
+.vscode/
+.DS_Store
+Thumbs.db
+```
