@@ -6,7 +6,7 @@ Le projet a également une vocation pédagogique : il permet d'explorer les embe
 
 > **Statut :** prototype pédagogique en développement. Ce projet n'est pas un système de sécurité certifié.
 
-## 🎯 Objectifs du projet
+## Objectifs du projet
 
 - Enregistrer plusieurs profils faciaux à partir de photographies.
 - Capturer une image avec une caméra ou importer une image existante.
@@ -17,7 +17,7 @@ Le projet a également une vocation pédagogique : il permet d'explorer les embe
 - Conserver localement les profils et permettre leur suppression.
 - Expliquer les fondements mathématiques du processus de reconnaissance.
 
-## ✨ Fonctionnalités
+## Fonctionnalités
 
 - **Enregistrement facial :** association d'un identifiant à une photo et à son embedding.
 - **Reconnaissance automatique :** comparaison du visage reçu avec les profils enregistrés.
@@ -26,7 +26,7 @@ Le projet a également une vocation pédagogique : il permet d'explorer les embe
 - **Explication mathématique :** visualisation des embeddings, de leur dimension, de la similarité cosinus et du seuil de décision.
 - **Stockage local :** utilisation de SQLite pour conserver les profils entre les sessions.
 
-## 🛠️ Technologies utilisées
+## Technologies utilisées
 
 | Technologie | Rôle |
 |---|---|
@@ -38,7 +38,7 @@ Le projet a également une vocation pédagogique : il permet d'explorer les embe
 | SQLite | Stockage local des profils |
 | Pandas | Présentation des résultats de comparaison |
 
-## 🧠 Comment fonctionne le système ?
+## Comment fonctionne le système ?
 
 Le processus de reconnaissance suit plusieurs étapes.
 
